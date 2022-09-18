@@ -1,0 +1,26 @@
+.i-achieve{
+    
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    flex:1;
+    
+}
+.ii-image{
+    height: 16rem;
+    width: 21rem;
+    border-radius: 1rem;
+    border:2px solid black;
+    margin:1rem
+}
+.i-p-i{
+    color: #c87c35;
+    font-size: 2rem;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.i-butt{
+    margin:2rem;
+    background-color: #c87c35;
+    border-color: #c87c35;
+}

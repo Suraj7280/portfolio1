@@ -1,0 +1,128 @@
+.a-about{
+    margin: 0rem;
+    padding:0rem;
+    justify-content: center;
+    
+}
+.a-abou{
+    font-size: 3rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    color: #c87c35;
+    
+}
+.a-left{
+    margin: 0rem;
+    padding:0rem;
+    display: flex;
+    justify-content:left;
+    margin-top: 0rem;
+    gap: 1rem;
+}
+.a-box{
+    
+    width: 70rem;
+    background: linear-gradient(2340deg,#ffffff 26.71%, #ffffff 86.36%);
+    color:black;
+    justify-content: center;
+    text-align: center;
+    border-radius: 1rem;
+    display: flex;
+    border:1px solid #ffffff;
+}
+.a-right{
+    margin: 0rem;
+    padding:0rem;
+    display: flex;
+    justify-content:right;
+    margin-top: 1.5rem;
+    gap: 1rem;
+}
+.a{
+    display: flex;
+    justify-content: space-between;
+    flex:1
+}
+.im-box{
+    height: 12rem;
+    width:12rem;
+    padding:0rem;
+    margin-top: 0rem;
+    border-radius: 7rem;
+}
+.design{
+    font-size: small;
+    color:#c87c35;
+    font-size: larger;
+}
+.a-ii-right{
+    justify-content: center;
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 1rem;
+    
+}
+.a-ii-left{
+    justify-content: center;
+    text-align: center;
+    padding-top: 1rem;
+    font-size: 1rem;
+    margin-left: 1rem;
+}
+.inside{
+    display:flex;
+    flex: 1;
+    padding:1rem
+}
+.inside1{
+    padding:1rem;
+}
+.code{
+    display:flex;
+    flex:4;
+    justify-content: center;
+    margin-top: 1rem;
+    
+}
+
+.project{
+    color:#c87c35;
+    text-align: center;
+    margin:2rem ;
+}
+.i-project{
+    height:22rem;
+    width:15rem;
+    background: linear-gradient(158deg,#ffe6d2 26.71%, #fdfdfd 86.36%);
+    border-radius: 0.7rem;
+    margin:0.1rem;
+    display:flex;
+    justify-content: center;
+}
+.i-contents{
+    justify-content: center;
+    text-align: center;
+}
+.i-design{
+    font-size: 1.5rem;
+    margin-top: 4rem;
+}
+.i-p{
+    font-size: small;
+}
+.btn{
+    background-color: #c87c35;
+    border-color: #c87c35;
+}
+.i-project1{
+    margin-top: 9rem;
+    font-size: larger;
+    margin-left: 1rem;
+}
+.i-academics{
+    text-align: center;
+    
+}
+.acdemic{
+    margin-top: 3rem;
+}

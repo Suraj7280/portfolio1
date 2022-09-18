@@ -1,0 +1,57 @@
+.i-slider{
+    margin: 0rem;
+    padding:0rem;
+    display: flex;
+    justify-content: center;
+    margin-top: 2.5rem;
+    gap: 1rem;
+}
+.i-box{
+    height: 40rem;
+    width: 40rem;
+    background: linear-gradient(580deg,#ffdab5 26.71%, #ffffff 86.36%);
+    color:black;
+    justify-content: center;
+    text-align: center;
+    border-radius: 1rem;
+    display: block;
+}
+.i-about{
+    margin-top: 3rem;
+    
+}
+.i-abou{
+    font-size: 3rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+    color: #c87c35;  
+}
+.formdesign{
+    margin: 0rem;
+}
+.i-text{
+    font-size: 1.7rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #9b452a;
+}
+.i-a-button{
+    background: linear-gradient(980deg,#fed2b3 26.71%, #ecf4ea 86.36%);
+    height: 2.4rem;
+    width: 10rem;
+    border-radius: 2rem;
+    border-color: #f8f5f3;
+    color: rgb(148, 65, 17);
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    filter: drop-shadow(0.3rem 0.5rem 0.8rem rgb(244, 155, 100));
+}
+.form__input{
+    height: 3rem;
+    width: 18rem;
+    border-radius: 1.3rem;
+}
+.form__input-message{
+    height: 10rem;
+    width: 19rem;
+    border-radius: 1.3rem;
+}

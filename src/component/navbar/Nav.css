@@ -1,0 +1,38 @@
+
+.i-nav{
+    display:flex;
+    height:4rem;
+    justify-content: space-between;
+    background-color: #ffdbc1;
+    font-family:'Times New Roman', Times, serif;
+    color: #f9f7f6;
+    position: fixed;
+    width: 100%;
+  
+  }
+  ul{
+    display: flex;
+    gap: 1rem;
+  }
+  li{
+    font-weight: 1rem;
+    color: rgb(161, 79, 24);;
+  }
+  .nav-left{
+    padding: 1rem;
+    color: rgb(102, 49, 13);
+    font-size: larger;
+    
+  }
+  .nav-right{
+    padding: 1rem;
+    
+  }
+  .nav-left:hover{
+    color:rgb(127, 59, 0);
+  }
+  li:hover{
+    color:rgb(77, 176, 87);
+    cursor: pointer;
+    font-size: 3rem;
+  }

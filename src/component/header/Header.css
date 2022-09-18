@@ -1,0 +1,58 @@
+.i-header{
+    margin-top: 0px;
+    padding:0px;
+    justify-content: space-between;
+    display:flex;
+    padding:2rem;
+    height:47rem;
+    background: linear-gradient(180deg,#ffdbc1 26.71%, rgb(250, 241, 241) 86.36%);
+}
+
+.h-name{
+    color:#f88716;
+    font-size: 3rem;
+    font-weight: bold;
+    font-family:cursive;
+    
+}
+.h-right{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    margin-top: -2rem;
+}
+.h-left{
+    flex: 1;
+    justify-content: center;
+    margin-top: 9rem;
+    
+}
+.i-button{
+    background: linear-gradient(980deg,#fed2b3 26.71%, #ecf4ea 86.36%);
+    height: 2.4rem;
+    width: 7rem;
+    border-radius: 2rem;
+    border-color: #f8f5f3;
+    color: rgb(22, 12, 12);
+    margin-top: 2rem;
+    font-size: 1.2rem;
+    filter: drop-shadow(0.3rem 0.5rem 0.8rem rgb(244, 155, 100));
+    
+}
+button:hover{
+    background: linear-gradient(180deg,#fed2b3 26.71%, #ecf4ea 86.36%);
+    cursor: pointer;
+}
+.icons1{
+    color:#f88716;
+    font-size: 2.5rem;
+    margin: 1rem;
+    padding-left: 4rem;
+}
+.icons{
+    gap:2;
+    margin-top: 20rem;
+}
+.icons1:hover{
+    color:#7b4106;
+}
