@@ -6,9 +6,12 @@ import {FiInstagram} from "react-icons/fi";
 import {FiTwitter} from "react-icons/fi";
 import {FiGithub} from "react-icons/fi";
 import {FiLinkedin} from "react-icons/fi";
+import { BrowserRouter } from 'react-router-dom';
+import { HashLink as Link } from 'react-router-hash-link';
 
 export default function Header(){
     return(
+        <BrowserRouter>
         <div className="i-header">
             <div className="h-left">
                 <div className="h-nam">
@@ -20,7 +23,7 @@ export default function Header(){
                 <div>
                 I'm a software developer.I have developed many types of font-end pages.I'm passionate about coding and designing the layouts and i love what i do. 
                 </div>
-                <button className="i-button">Hire me</button>
+                <button className="i-button"><Link to='#slider' className="i-butto">Hire Me</Link></button>
             </div>
             <div className="h-right">
             <span className="h-name1">
@@ -34,5 +37,6 @@ export default function Header(){
             
             </div>
         </div>
+        </BrowserRouter>
     );
 }

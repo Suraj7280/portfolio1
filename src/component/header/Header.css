@@ -56,3 +56,10 @@ button:hover{
 .icons1:hover{
     color:#7b4106;
 }
+.i-butto{
+    color: #7b4106;
+    text-decoration: none;
+}
+.i-butto:hover{
+    color: #f88716;
+}

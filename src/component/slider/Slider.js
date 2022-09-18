@@ -16,9 +16,9 @@ export default function Slider(){
         }
     return(
         <>
-        <div className="s-container">
+        <div className="s-container" >
             <div className="i-about">
-                <p className='i-abou'>
+                <p className='i-abou' id="slider">
                     Contact Me
                 </p>
             </div>
