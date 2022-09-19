@@ -21,7 +21,7 @@ export default function Header(){
                     Suraj Sharma
                 </span>
                 <div>
-                I'm a software developer.I have developed many types of font-end pages.I'm passionate about coding and designing the layouts and i love what i do. 
+                I'm a software developer.I have developed many types of front-end pages.I'm passionate about coding and designing the layouts and i love what i do. 
                 </div>
                 <button className="i-button"><Link to='#slider' className="i-butto">Hire Me</Link></button>
             </div>

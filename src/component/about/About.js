@@ -22,7 +22,7 @@ export default function About(){
                         </div>
                         <div className="a-ii-right">
                         I completed my High School from Salempur with <b>89.2% </b>and  intermediate with <b>87%.</b>
-                        Currently,I persuing my engineering from <b>Krishna Engineering College</b>.About my strength, I am a self-motivated, hard-working and optimistic.I have basic knowledge of computer languages like
+                        Currently,I pursuing my engineering from <b>Krishna Engineering College</b>.About my strength, I am a self-motivated, hard-working and optimistic.I have basic knowledge of computer languages like
                         <Typical
                             steps={['    HTML   ', 1000,'    CSS    ' , 1000,' JAVASCRIPT ',1000,'    REACT   ',1000,'REACT-NATIVE',1000,'   PYTHON   ',1000,'C-language',1000,'    JAVA    ',1000]}
                             loop={Infinity} className="design"
@@ -70,7 +70,7 @@ export default function About(){
                     <p className="i-design">
                         Delhi-Tour
                     </p>
-                    <p className="i-p">About
+                    <p className="i-p">
                         This app helps people to find famous places in Delhi to Visit.This app contain informations about many famous palces of Delhi.</p>
                         <a href="https://github.com/Suraj7280/Delhi-Tour.git" className="btn btn-primary"><FiGithub /> Git Hub</a>
                   </div>   

@@ -27,16 +27,19 @@ export default function Slider(){
                     <div className="email">
                     <form className="formdesign" onSubmit = {onSubmit}>
                         <p className="i-text">Name:</p>
-                        <div><input name='name' type="text" placeholder="Name…" className="form__input" /></div>
-                        <p className="i-text">Subject:</p>
-                        <div><input name='subject' type="text" placeholder="Subject…" className="form__input" /></div>
+                        <div><input name='name' type="text" placeholder="Name…" className="form__input" required/></div>
+                        <p className="i-text">Email:</p>
+                        <div><input name='subject' type="text" placeholder="Email…" className="form__input" required /></div>
                         <p className="i-text">Message:</p>
-                        <p><textarea name='message' type="text" placeholder="Your Message…" className="form__input-message" ></textarea></p>
+                        <p><textarea name='message' type="text" placeholder="Your Message…" className="form__input-message" required ></textarea></p>
                         <button className="i-a-button">Send Message</button>
                     </form>
                     </div>
+                    
                 </span>
             </div>
+            <hr />
+            djn
         </div>
         
         </>
